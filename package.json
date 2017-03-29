@@ -1,0 +1,24 @@
+{
+  "name": "yscec-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfldy2850/YSCEC-CRAWLER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfldy2850/YSCEC-CRAWLER/issues"
+  },
+  "homepage": "https://github.com/pfldy2850/YSCEC-CRAWLER#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "iconv": "^2.2.1",
+    "webdriverio": "^4.6.2"
+  }
+}
